@@ -1,0 +1,1 @@
+Upload at least one training file, one model file and the loader file to a "Code" folder where the main code is to be executed. Further instructions and a link to an example notebook available in the README.
